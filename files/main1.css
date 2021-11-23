@@ -1,0 +1,23 @@
+body,html{padding:0;margin:0;font-family:DM Mono,monospace,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;background-color:#222}h1,h2,h3,h4,p{color:#fff;margin:0}a{color:inherit;text-decoration:none}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.Description{margin-top:.5rem;color:#999;max-width:960px;font-weight:300}.Search{display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;width:100%;grid-gap:1rem;gap:1rem;margin-top:1.5rem}.Search_Input{width:100%;padding:1rem;-webkit-flex:1 1;-moz-box-flex:1;flex:1 1}.Search_Button,.Search_Input{font-size:1.2rem;font-family:inherit}.Search_Button{background-color:#e8d1ff;border:none;color:#000;cursor:pointer;padding:1rem 1.5rem;text-align:center}.Search_Button:hover{background-color:#ffbdff}.Filter p{color:#999}.Filter{display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;-webkit-justify-content:space-between;-moz-box-pack:justify;justify-content:space-between;padding:1.5rem 0 1rem;border-bottom:1px solid #313131;margin-top:1.5rem}.Profile{padding:0 0 2rem}.Profile_Card{-webkit-justify-content:space-between;-moz-box-pack:justify;justify-content:space-between;border-bottom:1px solid #313131;padding:1.5rem 0}.Profile_Card,.Profile_Start{display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;-webkit-align-items:center;-moz-box-align:center;align-items:center}.Profile_Start{grid-gap:1.5rem;gap:1.5rem;border-bottom:none;padding-bottom:none}.Profile_Card_Image{border-radius:120px;width:48px;height:48px}.Profile_Card_Username{font-size:1.25rem;font-weight:400}.Profile_Card_Username:hover{color:#d8afff;cursor:pointer}.Profile_Card_Revenue{font-size:1.25rem;font-weight:300}.Profile_ShowMore{width:100%;font-size:2rem;font-family:inherit;background:none;border:none;color:#d8afff;cursor:pointer;padding:1.5rem 0}.Profile_ShowMore:hover{color:#b25fff}@media (max-width:600px){.Filter_Earnings{display:none}.Profile_Card{-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;flex-direction:column;grid-gap:0;gap:0;-webkit-align-items:flex-start;-moz-box-align:start;align-items:flex-start}.Profile_Card_Rank{display:none}.Profile_Start{-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;grid-gap:1rem;gap:1rem}.Profile_Card_Revenue{margin-left:4rem}.Search{-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;flex-direction:column}}
+/*
+     FILE ARCHIVED ON 00:11:00 Oct 07, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:48:26 Oct 08, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 298.023
+  exclusion.robots: 221.674
+  exclusion.robots.policy: 221.665
+  xauthn.identify: 86.498
+  xauthn.chkprivs: 134.938
+  RedisCDXSource: 1.512
+  esindex: 0.009
+  LoadShardBlock: 55.854 (3)
+  PetaboxLoader3.datanode: 74.389 (4)
+  CDXLines.iter: 16.705 (3)
+  load_resource: 26.057
+*/
